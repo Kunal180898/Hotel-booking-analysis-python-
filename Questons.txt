@@ -1,0 +1,95 @@
+1. Booking Cancellations
+
+Cancellation rate: Calculate the proportion of bookings that were canceled.
+
+Factors influencing cancellations: Analyze which features (lead time, market segment, room type) correlate with cancellations.
+
+Example insights:
+What percentage of bookings are canceled?
+
+Does a longer lead time increase cancellation rates?
+
+2. Hotel Type Comparison
+
+Comparison between resort and city hotels: Analyze booking behavior, lead time, and cancellation rates between different types of hotels.
+
+Example insights:
+Are city hotels more popular than resort hotels?
+Do resort hotels have a longer lead time?
+
+3. Seasonality and Trends
+
+Monthly/Weekly trends: Analyze booking trends by month or week, identifying peak and off-peak seasons.
+
+Seasonal cancellations: Examine how cancellation rates change across different months or seasons.
+
+Example insights:
+
+Which month has the highest number of bookings?
+
+Do bookings increase during certain weeks or holidays?
+
+4. Guest Demographics
+
+Country-wise bookings: Analyze the distribution of guests by country and identify the top countries contributing to bookings.
+
+Family size analysis: Analyze bookings based on the number of adults, children, and babies.
+
+Example insights:
+Which countries have the highest number of hotel bookings?
+Are larger families more likely to book resort hotels?
+
+5. Market Segment Analysis
+
+Distribution by market segment: Analyze how different market segments (corporate, online, offline) perform in terms of total bookings and cancellation rates.
+
+Example insights:
+Which market segment contributes the most bookings?
+Are online bookings more likely to be canceled than offline bookings?
+
+6. Average Daily Rate (ADR) Analysis
+
+Revenue insights: Analyze the adr (Average Daily Rate) to understand revenue patterns.
+
+ADR vs. Cancellation: See if there's any relationship between ADR and cancellation rates.
+
+Example insights:
+
+Which hotel type has a higher average daily rate?
+Does the ADR fluctuate by season or room type?
+
+7. Special Requests and Customer Behavior
+
+Total special requests: Analyze the distribution of special requests made by guests.
+
+Impact on cancellations: Examine if guests who make more special requests are more or less likely to cancel their booking.
+
+Example insights:
+Do guests with more special requests tend to cancel more?
+How do customer requests vary between resort and city hotels?
+
+8. Booking Lead Time
+
+Lead time analysis: Analyze the average lead time for bookings and see if it differs by hotel type or booking status.
+
+Example insights:
+What is the average lead time for city hotels compared to resort hotels?
+Are last-minute bookings more likely to be canceled?
+
+9. Customer Types
+
+Repeat guest analysis: Compare booking and cancellation patterns between new and repeated guests.
+
+Example insights:
+Are repeated guests more likely to cancel bookings?
+How does booking lead time differ for repeat guests?
+
+10. Agent and Company Influence
+
+Agent-wise bookings: Analyze how different agents contribute to bookings and cancellations.
+
+Company-based bookings: Look at the role of companies in booking patterns and cancellations.
+
+Example insights:
+Which agent contributes the most to bookings?
+Are company-based bookings more likely to get canceled?
